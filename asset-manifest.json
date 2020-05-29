@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/static/css/main.005d7b9c.chunk.css",
-    "main.js": "/static/js/main.d6c14800.chunk.js",
-    "main.js.map": "/static/js/main.d6c14800.chunk.js.map",
+    "main.js": "/static/js/main.0dd9cca4.chunk.js",
+    "main.js.map": "/static/js/main.0dd9cca4.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.cc3e5384.js",
     "runtime-main.js.map": "/static/js/runtime-main.cc3e5384.js.map",
     "static/css/2.a6d00948.chunk.css": "/static/css/2.a6d00948.chunk.css",
-    "static/js/2.7af697aa.chunk.js": "/static/js/2.7af697aa.chunk.js",
-    "static/js/2.7af697aa.chunk.js.map": "/static/js/2.7af697aa.chunk.js.map",
+    "static/js/2.3e98b7a3.chunk.js": "/static/js/2.3e98b7a3.chunk.js",
+    "static/js/2.3e98b7a3.chunk.js.map": "/static/js/2.3e98b7a3.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.e44238f5eaec75468017378a6205405e.js": "/precache-manifest.e44238f5eaec75468017378a6205405e.js",
+    "precache-manifest.d3c8114b7a8576f96c43d84b90d8ad22.js": "/precache-manifest.d3c8114b7a8576f96c43d84b90d8ad22.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.a6d00948.chunk.css.map": "/static/css/2.a6d00948.chunk.css.map",
     "static/css/main.005d7b9c.chunk.css.map": "/static/css/main.005d7b9c.chunk.css.map",
-    "static/js/2.7af697aa.chunk.js.LICENSE.txt": "/static/js/2.7af697aa.chunk.js.LICENSE.txt",
+    "static/js/2.3e98b7a3.chunk.js.LICENSE.txt": "/static/js/2.3e98b7a3.chunk.js.LICENSE.txt",
     "static/media/boost-your-post-for-increasing-sales.md": "/static/media/boost-your-post-for-increasing-sales.a4deeea5.md",
     "static/media/difference-between-gatsbyjs-and-nextjs.md": "/static/media/difference-between-gatsbyjs-and-nextjs.41ff803b.md",
     "static/media/future-of-javascript.md": "/static/media/future-of-javascript.8cc16894.md",
@@ -29,13 +29,13 @@
     "static/media/trending-designs-in-2020.md": "/static/media/trending-designs-in-2020.8e1efcf2.md",
     "static/media/uiux-design-starter-with-adobe-xd.md": "/static/media/uiux-design-starter-with-adobe-xd.6d5d05bd.md",
     "static/media/web-automation-with-python-language.md": "/static/media/web-automation-with-python-language.a1c7c37f.md",
-    "static/media/what-nodejs-can-do.md": "/static/media/what-nodejs-can-do.40686a4e.md"
+    "static/media/what-nodejs-can-do.md": "/static/media/what-nodejs-can-do.be3f55fa.md"
   },
   "entrypoints": [
     "static/js/runtime-main.cc3e5384.js",
     "static/css/2.a6d00948.chunk.css",
-    "static/js/2.7af697aa.chunk.js",
+    "static/js/2.3e98b7a3.chunk.js",
     "static/css/main.005d7b9c.chunk.css",
-    "static/js/main.d6c14800.chunk.js"
+    "static/js/main.0dd9cca4.chunk.js"
   ]
 }
