@@ -1,4 +1,4 @@
-<!-- ![What NodeJS can do](/images/blog-image-3.jpg)
+![What NodeJS can do](/images/blog-image-3.jpg)
 
 ### What NodeJS can do?
 
@@ -8,4 +8,4 @@ Lorem ipsum dolor sit amet consectetur adipisicing elit. Inventore tempora delen
 
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Inventore tempora deleniti repellendus doloribus necessitatibus ullam accusantium iste natus assumenda nisi ut eius commodi quis tenetur fugit magni at, tempore cumque? Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nostrum consequatur earum debitis mollitia repellat.
 
-Inventore tempora deleniti repellendus doloribus necessitatibus ullam accusantium iste natus assumenda nisi ut eius commodi quis tenetur fugit consequatur earum debitis mollitia repellat. -->
+Inventore tempora deleniti repellendus doloribus necessitatibus ullam accusantium iste natus assumenda nisi ut eius commodi quis tenetur fugit consequatur earum debitis mollitia repellat.
